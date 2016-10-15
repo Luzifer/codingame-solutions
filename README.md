@@ -7,9 +7,11 @@ Just one thing: **Don't just copy them.** Take the puzzle yourself and afterward
 ## Finished puzzles
 
 - Medium
+  - [Bender - Episode 1](https://www.codingame.com/training/medium/bender-episode-1)
   - [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1)
   - [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
-  - [Bender - Episode 1](https://www.codingame.com/training/medium/bender-episode-1)
   - [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
+- Hard
+  - [Roller Coaster](https://www.codingame.com/training/hard/roller-coaster)
 - Community
   - [Texas Holdem](https://www.codingame.com/training/community/texas-holdem) by AdamHill
